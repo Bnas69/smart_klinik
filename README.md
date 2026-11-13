@@ -27,12 +27,3 @@ Pemeriksaan kode dan pengujian:
 flutter analyze
 flutter test
 ```
-
-## Akun demo
-
-| Peran  | Email                   | Kata sandi  |
-| ------ | ----------------------- | ----------- |
-| Pasien | `pasien@smartclinic.id` | `pasien123` |
-| Admin  | `admin@smartclinic.id`  | `admin123`  |
-
-pendaftaran pasien baru tersedia dari halaman masuk.
